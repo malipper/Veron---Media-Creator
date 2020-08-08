@@ -1,0 +1,1 @@
+powershell -NoProfile -ExecutionPolicy remotesigned ./intune.ps1
